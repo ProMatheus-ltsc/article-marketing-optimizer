@@ -1,0 +1,17 @@
+{
+  "name": "article-marketing-optimizer",
+  "displayName": "文章营销优化",
+  "version": "0.1.0",
+  "description": "六阶段文章营销优化 SOP；公众号 / 小红书 / 知乎 / 抖音平台适配",
+  "skills": [
+    "."
+  ],
+  "agents": [],
+  "models": {
+    "default": "deepseek-v4.1-flash"
+  },
+  "workbuddy": {
+    "entrySkill": "article-marketing-optimizer",
+    "newSessionPerCall": true
+  }
+}
